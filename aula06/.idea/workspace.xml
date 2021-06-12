@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dab1fcdc-3081-4984-be25-5d542b6f61a8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1tUHcabNIpobkAwCcR1Ffn7dEa1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dab1fcdc-3081-4984-be25-5d542b6f61a8" name="Default Changelist" comment="" />
+      <created>1622816828171</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622816828171</updated>
+      <workItem from="1622816830236" duration="1700000" />
+      <workItem from="1622818731397" duration="1080000" />
+      <workItem from="1623014586709" duration="1650000" />
+      <workItem from="1623016411170" duration="1065000" />
+      <workItem from="1623019778560" duration="1274000" />
+      <workItem from="1623022101489" duration="596000" />
+      <workItem from="1623070932618" duration="1728000" />
+      <workItem from="1623072736271" duration="1597000" />
+      <workItem from="1623074677293" duration="372000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="390" y="7" key="#PHP" timestamp="1622817018071">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="7" key="#PHP/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1622817018071" />
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1623071159944">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1623071159944" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1622817892558">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728/-1920.-313.1920.1040@0.0.1366.728" timestamp="1622817892558" />
+  </component>
+</project>
